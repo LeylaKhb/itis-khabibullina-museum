@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="itis-khabibullina-museum">
+    <output-path>$PROJECT_DIR$/out/artifacts/itis_khabibullina_museum</output-path>
+    <root id="root" />
+  </artifact>
+</component>
